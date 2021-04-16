@@ -49,3 +49,16 @@
 		"description": "includes popup code js"
 	}
 }
+
+
+{
+	"Transition": {
+		"scope": "css, scss",
+		"prefix": "trans",
+		"body": [
+			"transition: all .3s ease 0s;",
+			"$1"
+		],
+		"description": "Log output to console"
+	}
+}
